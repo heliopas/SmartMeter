@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Special files
-files/var/globalVar.py
+files/var/*
